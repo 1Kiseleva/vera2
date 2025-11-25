@@ -1,11 +1,15 @@
 @keyframes slow-rotating {
-  0% {
-    transform: rotate(0);
-  }
-  50% {
-    transform: rotate(5deg);
-  }
-  100% {
-    transform: rotate(-5deg);
-  }
+    0% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(5deg);
+    }
+    100% {
+        transform: rotate(-5deg);
+    }
+}
+
+.anim-no-opacity {
+    opacity: 0;
 }

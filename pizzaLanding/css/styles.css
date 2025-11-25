@@ -18,6 +18,7 @@
 @import "blocks/chips.css";
 @import "blocks/parallax.css";
 @import "blocks/chip-item.css";
+@import 'blocks/collage.css';
 
 /* секции */
 @import "blocks/sections/cover.css";
