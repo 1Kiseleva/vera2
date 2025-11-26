@@ -7,6 +7,8 @@
     --color-basic-2: #3498db;
     --color-basic-3: #2ecc71;
     --color-basic-4: #f39c12;
+    --color-basic-5: #34495e;
+    --color-basic-6: #e67e22;
     
     /* Новый цвет для маски с прозрачностью */
     --color-basic-1_special-2: rgba(231, 76, 60, 0.7);
