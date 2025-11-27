@@ -23,6 +23,7 @@
 @import "blocks/collage.css";
 @import "blocks/reviews.css";
 @import "blocks/review-item.css";
+@import "blocks/form.css";
 
 /* секции */
 @import "blocks/sections/cover.css";
